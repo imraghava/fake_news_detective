@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
  
-  "name": "Python Chrome Plugin",
+  "name": "Fake News Detective",
   "description": "This extension runs Python code.",
   "version": "1.0",
  
